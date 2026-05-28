@@ -1,4 +1,6 @@
-## Hi there 👋
+Welcome to my GitHub! 👋
+
+Exploring Code • Data • AI 🚀
 
 <!--
 **AshmalLearnsDS/AshmalLearnsDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
